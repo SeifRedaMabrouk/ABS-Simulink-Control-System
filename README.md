@@ -59,18 +59,4 @@ A complete **Model-Based Design (MBD)** implementation of an **Anti-Lock Braking
 
 ---
 
-## 🛠️ How to Run the Model
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/ABS-Simulink-Control-System.git](https://github.com/YourUsername/ABS-Simulink-Control-System.git)
-   ```
-2. **Initialize Parameters:**
-   Open MATLAB, navigate to `models/`, and run `Parameters.m` to load variables into the Workspace.
-3. **Run Simulation:**
-   Open `ABS.slx` in Simulink and click **Run**.
-4. **Inspect Results:**
-   Open **Simulation Data Inspector** or the connected **Scopes** to view results.
-
----
 
