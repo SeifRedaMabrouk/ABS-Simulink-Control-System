@@ -39,7 +39,7 @@ A complete **Model-Based Design (MBD)** implementation of an **Anti-Lock Braking
 ## 📈 Simulation Results & Highlights
 
 ### 1. ABS ON vs. ABS OFF Performance Benchmark
-![ABS ON vs OFF Comparison](results/ABS_ON_vs_OFF.png)
+
 
 | Parameter | ABS OFF (Locked Braking) | ABS ON (PI Controlled) |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ A complete **Model-Based Design (MBD)** implementation of an **Anti-Lock Braking
 ---
 
 ### 2. Road Surface Transition Test (Split-$\mu$)
-![Surface Transition Result](results/Surface_Transition.png)
+
 
 - **Condition:** Transitioning from Dry Asphalt ($D = 1.0$) to Wet Surface ($D = 0.4$) at $t = 1.0\text{ s}$.
 - **Result:** The PI Controller immediately drops the hydraulic pressure from $\approx 1100\text{ N}\cdot\text{m}$ to $\approx 440\text{ N}\cdot\text{m}$, preventing wheel lockup under low-friction conditions.
