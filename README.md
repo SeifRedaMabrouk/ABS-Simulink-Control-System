@@ -19,7 +19,6 @@ A complete **Model-Based Design (MBD)** implementation of an **Anti-Lock Braking
 
 ## 📊 System Architecture & Model Structure
 
-![Model Overview](results/Model_Architecture.png)
 
 ### Mathematical Equations
 
