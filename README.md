@@ -74,5 +74,3 @@ A complete **Model-Based Design (MBD)** implementation of an **Anti-Lock Braking
 
 ---
 
-## 📂 Project Report
-A complete engineering report with detailed parameter tables and mathematical derivations is available in `docs/ABS_Project_Report.pdf`.
